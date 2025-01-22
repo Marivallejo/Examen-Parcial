@@ -199,4 +199,16 @@ nav {
         }
 
 
+.custom-navbar {
+    background-color: #00796b !important; 
+}
+
+.custom-navbar .nav-link {
+    color: white !important; 
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ddd !important; 
+}
+
         
